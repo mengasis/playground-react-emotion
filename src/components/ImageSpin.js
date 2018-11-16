@@ -6,6 +6,6 @@ const spin = keyframes`
 `
 
 export default styled('img')`
-	animation: ${spin} infinite 20s linear;
-	height: 40vmin;
+	animation: ${spin} infinite 5s linear;
+	height: 10vmin;
 `
